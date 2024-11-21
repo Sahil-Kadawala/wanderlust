@@ -1,6 +1,6 @@
 # Wanderlust
 
-This is an incomplete project developed as a reference for **DeepThought Edutech Ventures Private Limited**.
+This is an incomplete project developed as a reference**.
 
 ## Overview
 
